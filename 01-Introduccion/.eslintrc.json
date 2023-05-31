@@ -1,0 +1,9 @@
+/*Herramienta para visualizar errores y corregiros*/
+{
+    "parserOptions":{
+        "ecmaVersion": 6
+    },
+    "rules":{
+        "semi":["error", "always"]
+    }
+}
